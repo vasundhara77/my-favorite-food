@@ -2,6 +2,9 @@ p {
     color:black;
     font-size: 5px;
 }
+.last {
+    text-align:right;
+}
 h1 {
     color:blue;
     font-size: 15px;
@@ -15,6 +18,9 @@ h2 {
 img {
     height: 80px;
     width: 100px;
+}
+.pictures {
+    text-align:center;
 }
 body {
     zoom:100%
