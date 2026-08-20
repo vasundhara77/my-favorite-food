@@ -5,10 +5,12 @@ p {
 h1 {
     color:blue;
     font-size: 15px;
+    text-align:center;
 }
 h2 {
     color:blueviolet;
     font-size: 10px;
+    text align:center;
 }
 img {
     height: 40px;
